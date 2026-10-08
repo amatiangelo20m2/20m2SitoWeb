@@ -1,0 +1,136 @@
+{
+  "locations": [
+    {
+      "slug": "cisternino",
+      "name": "Cisternino",
+      "tag": "Dove tutto è iniziato",
+      "subtitle": "Tra vicoli, sapori e belle serate.",
+      "kind": "American bar · Hamburger · Ristorante",
+      "address": "Via Gaetano d’Amico, 11 · Cisternino (BR)",
+      "email": "20m2official@gmail.com",
+      "booking": "https://www.pro20.net/bfrm?form=opPdYo6x",
+      "menu": "https://www.pro20.net/menualacarte/1b0f9628-db9d-4841-bb11-c78deb94192e",
+      "tripadvisor": "https://www.tripadvisor.it/Restaurant_Review-g652000-d9705147-Reviews-20M2_Cisternino-Cisternino_Province_of_Brindisi_Puglia.html",
+      "image": "cocktail",
+      "sections": [
+        [
+          "Scopri il 20m2: il miglior ristorante a Cisternino",
+          "Nel cuore di Cisternino, il 20m2 si distingue come un gioiello culinario, unendo l'intimità di un pub alla raffinatezza di un ristorante. Questo spazio unico offre un rifugio accogliente per chi cerca una cucina innovativa e birre artigianali selezionate, in un ambiente che vibra di calore e amicizia. Immagina un luogo dove ogni dettaglio, dall'arredamento alle materie prime, racconta la passione per l'autenticità e l'innovazione."
+        ],
+        [
+          "Dove mangiare a Cisternino? Al 20m2 ovviamente!",
+          "Al 20m2, la tradizione incontra la modernità nei piatti creativi che celebrano i sapori del territorio, accompagnati da una selezione di birre che soddisfano il palato di novizi e intenditori. Ogni visita diventa un'esperienza: una scoperta di abbinamenti unici e sorprendenti, in un'atmosfera che invita al relax e alla condivisione."
+        ],
+        [
+          "Una cena indimenticabile nel miglior ristorante di Cisternino",
+          "Lasciati guidare in un viaggio culinario dove ogni piatto è una scoperta, ogni sapore una sorpresa. Dal primo assaggio al dolce finale, 20m2 rende ogni cena un'occasione speciale. Che tu sia di passaggio o alla ricerca di un nuovo punto di riferimento gastronomico, 20m2 è il ristorante vicino a te che promette di trasformare ogni visita in un ricordo prezioso."
+        ]
+      ],
+      "maps": "https://www.google.com/maps/search/?api=1&query=20m2%20Cisternino%20Via%20Gaetano%20d%E2%80%99Amico%2C%2011%20%C2%B7%20Cisternino%20%28BR%29"
+    },
+    {
+      "slug": "monopoli",
+      "name": "Monopoli",
+      "tag": "A due passi dal mare",
+      "subtitle": "Il porto, una pizza, il tuo prossimo brindisi.",
+      "kind": "American bar · Hamburger · Pizzeria",
+      "address": "Via Giuseppe Garibaldi, 66 · Monopoli (BA)",
+      "email": "info@20m2official.it",
+      "booking": "https://www.pro20.net/bfrm?form=Ckcl9QV0",
+      "menu": "https://www.pro20.net/menualacarte/7626d272-89a5-415b-a668-e6e5785cbe4e",
+      "tripadvisor": "https://www.tripadvisor.it/Restaurant_Review-g652003-d14456003-Reviews-20m2_Monopoli-Monopoli_Province_of_Bari_Puglia.html",
+      "image": "monopoli",
+      "sections": [
+        [
+          "Scopri il 20m2: il miglior ristorante e pizzeria a Monopoli",
+          "Situato sul pittoresco porto di Monopoli, il 20m2 si erge come un faro di convivialità e gusto, offrendo una fusione impeccabile tra l'autentica pizzeria italiana e l'atmosfera rilassata di un American bar. Con una vista mozzafiato sul mare cristallino, questo locale non è solo una destinazione gastronomica, ma un vero e proprio angolo di paradiso per gli amanti della pizza, dei cocktail innovativi e dell'ospitalità senza pari."
+        ],
+        [
+          "Dove mangiare a Monopoli? Al 20m2 ovviamente!",
+          "Al 20m2, ogni pizza è un'opera d'arte, creata con passione utilizzando ingredienti freschi e di alta qualità, scelti con cura tra i prodotti del territorio. Dall'impasto lievitato alla perfezione alla varietà di gusti che soddisfano sia i palati tradizionalisti che quelli più avventurosi, la nostra pizzeria promette un'esperienza culinaria indimenticabile, arricchita dalla brezza marina e dall'incantevole scenario del porto."
+        ],
+        [
+          "Una cena indimenticabile nel miglior ristorante di Monopoli",
+          "Lasciati guidare in un viaggio culinario dove ogni piatto è una scoperta, ogni sapore una sorpresa. Dal primo assaggio al dolce finale, 20m2 rende ogni cena un'occasione speciale. Che tu sia di passaggio o alla ricerca di un nuovo punto di riferimento gastronomico, 20m2 è il ristorante vicino a te che promette di trasformare ogni visita in un ricordo prezioso."
+        ]
+      ],
+      "maps": "https://www.google.com/maps/search/?api=1&query=20m2%20Monopoli%20Via%20Giuseppe%20Garibaldi%2C%2066%20%C2%B7%20Monopoli%20%28BA%29"
+    }
+  ],
+  "reviews": [
+    [
+      "Tripadvisor",
+      "Marinella P",
+      "20 settembre 2026",
+      "Ottima cena. Posto meritevole ci torno volentieri ogni volta. Pizza consigliatissima."
+    ],
+    [
+      "Tripadvisor",
+      "Karolina T",
+      "2 settembre 2026",
+      "È uno dei posti migliori da visitare a Monopoli per mangiare fuori e socializzare."
+    ],
+    [
+      "Tripadvisor",
+      "Samuel K",
+      "21 agosto 2026",
+      "Ottimo cibo, servizio impeccabile e un posticino vivace nel cuore del centro storico di Monopoli."
+    ],
+    [
+      "Google",
+      "Dotrex37",
+      "17 agosto 2026",
+      "Hamburger eccezionali, sporchi ma non troppo, pesanti al punto giusto."
+    ],
+    [
+      "Google",
+      "Tiziana Gerone",
+      "11 agosto 2026",
+      "Ottimo cibo, personale molto disponibile, gentile, rapporto qualità prezzo ottima."
+    ],
+    [
+      "Google",
+      "Sara",
+      "5 agosto 2026",
+      "Posto piccolo ma incantevole e caratteristico, personale giovane gentilissimo e simpatico."
+    ],
+    [
+      "Google",
+      "Chiara Longo",
+      "22 luglio 2026",
+      "Ho festeggiato ieri i 18 anni di mio figlio. Personale gentile e disponibile."
+    ]
+  ],
+  "statistics": [
+    [
+      "24.000",
+      "Hamburger",
+      "burger"
+    ],
+    [
+      "250.000",
+      "Cocktail",
+      "cocktail"
+    ],
+    [
+      "34.560",
+      "Birre",
+      "bottle"
+    ],
+    [
+      "20.000",
+      "Birra",
+      "beer"
+    ],
+    [
+      "14.624",
+      "Pizze",
+      "pizza"
+    ],
+    [
+      "250",
+      "Compleanni",
+      "cake"
+    ]
+  ]
+}

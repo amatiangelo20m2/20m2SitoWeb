@@ -1,0 +1,1 @@
+import {Component,input} from '@angular/core';@Component({selector:'app-icon',template:`<svg aria-hidden="true" viewBox="0 0 32 32"><use [attr.href]="'/icons.svg#'+name()"/></svg>`})export class Icon{ name=input('spark'); }

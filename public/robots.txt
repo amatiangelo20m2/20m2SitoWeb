@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://20m2official.it/sitemap.xml

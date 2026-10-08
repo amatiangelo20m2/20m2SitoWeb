@@ -1,0 +1,1 @@
+import {Component} from '@angular/core';import {RouterLink} from '@angular/router';import {Booking,Ribbon,Locations,Stats,Gallery,Reviews} from './shared';import {Icon} from './icons';@Component({imports:[RouterLink,Booking,Ribbon,Locations,Stats,Gallery,Reviews,Icon],templateUrl:'./home.html'})export class Home{}

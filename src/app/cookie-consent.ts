@@ -1,0 +1,4 @@
+import {Injectable,signal} from '@angular/core';
+export interface ConsentPreferences {version:1;external:boolean;updatedAt:string;}
+export function parseConsent(raw:string|null):ConsentPreferences|null{try{const p=JSON.parse(raw??'null');return p?.version===1&&typeof p.external==='boolean'&&typeof p.updatedAt==='string'&&Date.now()-Date.parse(p.updatedAt)<180*86400000&&Date.parse(p.updatedAt)<=Date.now()?p:null}catch{return null}}
+@Injectable({providedIn:'root'})export class CookieConsent{private key='20m2-website-cookie-consent';preferences=signal<ConsentPreferences|null>(this.read());external=()=>this.preferences()?.external===true;private read(){try{return parseConsent(localStorage.getItem(this.key))}catch{return null}}save(external:boolean){const p:ConsentPreferences={version:1,external,updatedAt:new Date().toISOString()};this.preferences.set(p);try{localStorage.setItem(this.key,JSON.stringify(p))}catch{}}}
